@@ -1,0 +1,22 @@
+Corner #,Minute,Second,Team,Player,Taken From,Sent To,Corner Type,Technique,Pass Height,Pass Outcome,First Event After Corner,First Event Player,Shot Occurred,Shot Player,Shot Outcome,Shot xG,Direct Shot From Corner,Direct Shot Player,Direct Shot Outcome,Direct Shot xG,Goal From Corner,Result
+1,4,22,Bayern Munich,Franck Bilal Ribéry,"(120.0, 1.0)","(115.0, 39.0)",Not recorded,,High Pass,Incomplete,Clearance,Didier Yves Drogba Tébily,Yes,Toni Kroos,Off T,0.033942744,No,,,,No,Shot in subsequent events
+2,17,46,Bayern Munich,Toni Kroos,"(120.0, 1.0)","(111.0, 45.0)",Not recorded,,High Pass,,Ball Receipt*,Arjen Robben,Yes,Arjen Robben,Blocked,0.04427424,Yes,Arjen Robben,Blocked,0.04427424,No,Direct shot from corner
+3,18,0,Bayern Munich,Toni Kroos,"(120.0, 1.0)","(115.0, 45.0)",Not recorded,,High Pass,Incomplete,Goal Keeper,Petr Čech,No,,,,No,,,,No,First event: Goal Keeper
+4,18,23,Bayern Munich,Franck Bilal Ribéry,"(120.0, 1.0)","(112.0, 11.0)",Not recorded,,Ground Pass,,Ball Receipt*,Toni Kroos,No,,,,No,,,,No,First event: Ball Receipt*
+5,21,10,Bayern Munich,Toni Kroos,"(120.0, 1.0)","(113.0, 43.0)",Not recorded,,High Pass,Incomplete,Clearance,Ashley Cole,No,,,,No,,,,No,First event: Clearance
+6,22,38,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(114.0, 47.0)",Not recorded,,High Pass,Incomplete,Clearance,Didier Yves Drogba Tébily,No,,,,No,,,,No,First event: Clearance
+7,24,28,Bayern Munich,Franck Bilal Ribéry,"(120.0, 1.0)","(113.0, 46.0)",Not recorded,,High Pass,Incomplete,Ball Receipt*,Bastian Schweinsteiger,No,,,,No,,,,No,First event: Ball Receipt*
+8,39,9,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(111.0, 1.0)",Not recorded,,High Pass,Out,Pass,José Bosingwa da Silva,Yes,Anatoliy Tymoshchuk,Blocked,0.0060392558,No,,,,No,Shot in subsequent events
+9,48,18,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(107.0, 68.0)",Not recorded,,Ground Pass,,Ball Receipt*,Philipp Lahm,No,,,,No,,,,No,First event: Ball Receipt*
+10,60,38,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(95.0, 64.0)",Not recorded,,Ground Pass,,Ball Receipt*,Philipp Lahm,Yes,Bastian Schweinsteiger,Wayward,0.1257747,No,,,,No,Shot in subsequent events
+11,60,56,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(111.0, 33.0)",Not recorded,,High Pass,,Ball Receipt*,Bastian Schweinsteiger,Yes,Bastian Schweinsteiger,Wayward,0.1257747,Yes,Bastian Schweinsteiger,Wayward,0.1257747,No,Direct shot from corner
+12,65,43,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(116.0, 39.0)",Not recorded,,High Pass,Incomplete,Goal Keeper,Petr Čech,Yes,Thomas Müller,Blocked,0.09081695,No,,,,No,Shot in subsequent events
+13,68,28,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(116.0, 51.0)",Not recorded,,High Pass,Incomplete,Clearance,Frank Lampard,No,,,,No,,,,No,First event: Clearance
+14,68,49,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(115.0, 44.0)",Not recorded,,High Pass,Incomplete,Duel,Thomas Müller,No,,,,No,,,,No,First event: Duel
+15,75,40,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(115.0, 52.0)",Not recorded,,High Pass,Incomplete,Clearance,Frank Lampard,Yes,Toni Kroos,Blocked,0.014862448,No,,,,No,Shot in subsequent events
+16,76,4,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(111.0, 40.0)",Not recorded,,High Pass,Incomplete,Clearance,Didier Yves Drogba Tébily,Yes,Toni Kroos,Blocked,0.014862448,No,,,,No,Shot in subsequent events
+17,87,51,Chelsea,Juan Manuel Mata García,"(120.0, 80.0)","(113.0, 47.0)",Not recorded,,High Pass,,Ball Receipt*,Didier Yves Drogba Tébily,Yes,Didier Yves Drogba Tébily,Goal,0.06846363,Yes,Didier Yves Drogba Tébily,Goal,0.06846363,Yes,GOAL from corner
+18,90,32,Bayern Munich,Toni Kroos,"(120.0, 80.0)","(109.0, 33.0)",Not recorded,,High Pass,Incomplete,Clearance,John Michael Nchekwube Obinna,No,,,,No,,,,No,First event: Clearance
+19,97,13,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(117.0, 54.0)",Not recorded,,Low Pass,Incomplete,Clearance,Frank Lampard,No,,,,No,,,,No,First event: Clearance
+20,107,3,Bayern Munich,Toni Kroos,"(120.0, 1.0)","(112.0, 33.0)",Not recorded,,High Pass,Incomplete,Duel,Daniel Van Buyten,Yes,Jérôme Boateng,Blocked,0.024759334,No,,,,No,Shot in subsequent events
+21,112,26,Bayern Munich,Arjen Robben,"(120.0, 80.0)","(106.0, 34.0)",Not recorded,,High Pass,Incomplete,Clearance,Fernando José Torres Sanz,Yes,Arjen Robben,Off T,0.04517782,No,,,,No,Shot in subsequent events
